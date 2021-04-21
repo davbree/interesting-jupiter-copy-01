@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     template: hero_section
-    title: Achieve your Goals!
+    title: 'Achieve your Goals!,,'
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - type: action
